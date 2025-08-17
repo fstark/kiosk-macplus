@@ -108,7 +108,7 @@ An absolutely incredible adventur/puzzle game. There is no way to finish it in a
 
 ### Tetris
 
-The classic Tetris for the class Macs.
+The classic Tetris for the classic Macs.
 
 ### Dark Castle
 
