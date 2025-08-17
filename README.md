@@ -30,7 +30,7 @@ A few applications are bundled:
 
 The almost original MacPaint, with WoodBlock, the famous image of the Japanese Lady, by Suzan Kare.
 
-### Photoshop 1.0
+### Photoshop 1.0.7
 
 The original Photoshop, with a couple of image from the period: one 8 bits, and another 1 bit scan.
 
@@ -106,7 +106,7 @@ A harder-than-it-looks Missile Commander clone. But the most interesting thing i
 
 An absolutely incredible adventur/puzzle game. There is no way to finish it in a kiosk sitting, but this is an absolute masterpiece.
 
-### Tetri
+### Tetris
 
 The classic Tetris for the class Macs.
 
@@ -118,7 +118,7 @@ The classic Tetris for the class Macs.
 
 **The** action game for the Mac. Purely written using the toolbox, zero assembly. Another absolute classic for the Mac.
 
-### Aitborne! 1.0
+### Airborne! 1.0
 
 Classic very early Mac 128K game.
 
