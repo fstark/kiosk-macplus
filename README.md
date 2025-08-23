@@ -17,7 +17,6 @@ The software included is period-accurate for MacPlus users (mostly 1984-1989+).
 
 The system is the latest System 6 that runs on the Mac Plus. While it currently runs on any mac, I plan to save some space and make it Mac Plus only
 
-
 ---
 
 ## System 6.0.8
@@ -36,7 +35,7 @@ The first version of After Dark (sorry, no toasters) is active, so the screen do
 
 MultiFinder is present, but not activated, as this would lead to users launching multiple programs and ending up confused by memory errors. You can demo MultiFinder by activating it with the "Set Startup..." option of the "Special" menu and restarting.
 
-![Activate Multi-Finder from the "Special" menu](image-2.png)
+![Activate Multi-Finder from the "Special" menu](screenshots/multifinder-1.png)
 
 Beware that some applications may not be MultiFinder friendly.
 
@@ -63,7 +62,7 @@ The slide show contains some iconic dithered Mac images:
 
 The set of bundled applications represent a typical set of "serious" applications you could find on a Mac.
 
-![alt text](image-3.png)
+![alt text](screenshots/applications-1.png)
 
 ---
 
@@ -141,7 +140,7 @@ While the Atari ST was the king of music applications thanks to its built-in MID
 
 Music Works lets you compose and play complex (for the time) partitions.
 
-![I plead the 5th](image-4.png)
+![I plead the 5th](screenshots/music-works-1.png)
 
 ---
 ### Studio Session
@@ -158,7 +157,7 @@ While the Mac was not a "classic" gaming machine, mainly due to its black and wh
 
 I included a bunch of typical games.
 
-![alt text](image-20.png)
+![alt text](screenshots/games-1.png)
 
 They are roughly ordered by date, from early classic Mac time wasters, down to full blown solid Mac-specific hits.
 
@@ -181,7 +180,7 @@ I spent more time than I'd like to confess on this game. The instructions are ma
 
 A graphical twist on the classic Master Mind. Beware of duplicates!
 
-![A game of code](image-6.png)
+![A game of code](screenshots/mastercode-1.png)
 
 ---
 ### LunarLander
@@ -216,21 +215,21 @@ A simple game of Othello.
 
 A multiplayer Memory game.
 
-![alt text](image-7.png)
+![alt text](screenshots/on-the-contrary-1.png)
 
 ---
 ### Zork I
 
 Text adventure games were the most immersive games at the time, and InfoCom offering were available on all platforms, thanks to their portable design (including the original Mac, of course!)
 
-![alt text](image.png)
+![alt text](screenshots/zork-1.png)
 
 ---
 ### Third Dimension
 
 A take on a 3d tic-tac-toe-like, surprisingly playable!
 
-![alt text](image-1.png)
+![alt text](screenshots/third-dimension-1.png)
 
 ---
 ### Solitaire
@@ -244,7 +243,7 @@ I spent way more time than I will admit with this game back in the days. And if 
 
 This is Rogue. It is not a rogue-like game, it is THE original Rogue, ported to the Macintosh.
 
-![alt text](image-9.png)
+![alt text](screenshots/rogue-1.png)
 
 ---
 ### Dungeon of Doom
@@ -261,7 +260,7 @@ Easy to notice the inspiration of this game: notice how Rogue (above) said "Welc
 
 Used to play the card version whith my brother in the 70s...
 
-![alt text](image-11.png)
+![alt text](screenshots/1000-miles-1.png)
 
 
 ---
@@ -269,14 +268,14 @@ Used to play the card version whith my brother in the 70s...
 
 The port of the classic Apple ][ game that everyone seems to have played at school in the US. Less known in Europe, but a classic none theless
 
-![I died of cholera...](image-12.png)
+![I died of cholera...](screenshots/oregon-trail-1.png)
 
 ---
 ### Checkers
 
 A simple game of checkers, typical of the first games for the Mac.
 
-![alt text](image-13.png)
+![alt text](screenshots/checkers-1.png)
 
 ---
 ### Shangai
@@ -290,7 +289,7 @@ An addictive mah-jong solitaire game. Almost as addictive as the color version.
 
 An interesting take on the Space Invaders concept, using the mouse for an extremely fast ship movement.
 
-[Save the planet!](image-14.png)
+[Save the planet!](screenshots/spacebubble-1.png)
 
 
 ---
@@ -298,7 +297,7 @@ An interesting take on the Space Invaders concept, using the mouse for an extrem
 
 Impressive 3d wireframe space shooter. Use the force!
 
-![alt text](image-15.png)
+![alt text](screenshots/star-wars-1.png)
 
 ---
 ### Tetris
@@ -341,7 +340,7 @@ The port of the Apple ][ game. Anyone who tells you that Lode Runner isn't the b
 
 A beautiful, very Mac-like, point-and-click game, with a very mac-like interaction, using both the mouse and multiple windows.
 
-![alt text](image-16.png)
+![alt text](screenshots/deja-vu-1.png)
 
 
 ---
@@ -364,7 +363,7 @@ An absolutely incredible adventure/puzzle game. There is no way to finish it in 
 
 A fun drawing program for kids!
 
-![alt text](image-17.png)
+![alt text](screenshots/kid-pix-1.png)
 
 ---
 ## Have fun exploring 20Mb of software for the Mac Plus!
