@@ -96,7 +96,7 @@ MacDraw was an impressive vector drawing program (well, at least until Illustrat
 ---
 ### Adobe Illustrator 88 1.9.5
 
-It is hard to overstate the incredible technical achievement that was rendering PostScript interactively on-screen with the Illustrator Editor. Included is Adobe Type Manager, which was able to bring vectorized fonts to all Macs.
+It is hard to overstate the incredible technical achievement that was rendering PostScript interactively on-screen with Illustrator. Included is Adobe Type Manager, which was able to bring vectorized fonts to all Macs.
 
 ![Vectorized fonts](screenshots/adobe-illustrator-88-1.png)
 
@@ -199,7 +199,7 @@ Another classic, very early Mac 128K assembly game.
 ---
 ### Mac Missiles
 
-Another Missile Commander clone. But the most interesting thing here is by far the name of the developer... (Avie Tevanian Jr, designer of the Mach kernel, principal architect of NeXTStep and Apple CTO)
+Another Missile Commander clone. But the most interesting thing here is by far the name of the developer... (Avie Tevanian Jr, designer of the Mach kernel, principal architect of NeXTStep and Apple CTO until 2006)
 
 ![alt text](screenshots/mac-missiles-1.png)
 
@@ -220,7 +220,7 @@ A multiplayer Memory game.
 ---
 ### Zork I
 
-Text adventure games were the most immersive games at the time, and InfoCom offering were available on all platforms, thanks to their portable design (including the original Mac, of course!)
+Text adventure games were the most immersive games at the time, and Infocom offering were available on all platforms, thanks to their portable design (including the original Mac, of course!)
 
 ![alt text](screenshots/zork-1.png)
 
@@ -289,13 +289,13 @@ An addictive mah-jong solitaire game. Almost as addictive as the color version.
 
 An interesting take on the Space Invaders concept, using the mouse for an extremely fast ship movement.
 
-[Save the planet!](screenshots/spacebubble-1.png)
+![Save the planet!](screenshots/spacebubble-1.png)
 
 
 ---
 ### Star Wars
 
-Impressive 3d wireframe space shooter. Use the force!
+Impressive 3d wireframe space shooter. Use the force, Luuk!
 
 ![alt text](screenshots/star-wars-1.png)
 
@@ -324,7 +324,7 @@ The port of the Apple ][ game. Anyone who tells you that Lode Runner isn't the b
 
 ### Carmen World
 
-The original San Diego game from 1985, as serie that *still continues to this day* 40 years later. Very easy to play, just remember you have to click in the suspect description in the interpool machine to enter the clues...
+The original Carmen San Diego game from 1985, as serie that *still continues to this day* 40 years later. Very easy to play, just remember you have to click in the suspect description in the interpol machine to enter the clues...
 
 ![Suspect was in Paris -- easier for me](<screenshots/carmen-world-1.png>)
 
