@@ -151,7 +151,7 @@ An extremely skeuomorphic music composing and playing software. Chuck Roast is s
 
 # Games
 
-While the Mac was not a "classic" gaming machine, mainly due to its black and white output, no hardware accelerations and lack of joystick, there were quite a lot of games on the platform.
+While the Mac was not a "classic" gaming machine, mainly due to its black and white output, no hardware acceleration and lack of joystick, there were quite a lot of games on the platform.
 
 ## Games
 
