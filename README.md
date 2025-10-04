@@ -1,3 +1,7 @@
+# IN PROGRESS
+
+Added Lena image
+
 # MacPlus Kiosk 20Mb Disk Image
 
 This is a MacPlus ZuluSCSI image to be used in a kiosk setup (free use of the computer).
